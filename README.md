@@ -65,6 +65,12 @@ task_tile.dart → UI for single task item
 app_theme.dart → App theme and styling
 
 ![Add new task](screenshots/add_task.png)
+![Add new task](screenshots/add_task_screen.png)
+![Add new task](screenshots/all_tasks.png)
+![Add new task](screenshots/completed_tasks.png)
+![Add new task](screenshots/not_add_task_screen.png)
+![Add new task](screenshots/pending_task_click_edit_icon.png)
+![Add new task](screenshots/pending_tasks.png)
 
 
 
