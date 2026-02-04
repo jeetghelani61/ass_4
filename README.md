@@ -63,3 +63,7 @@ task.dart → Task model
 task_tile.dart → UI for single task item
 
 app_theme.dart → App theme and styling
+
+![Add new task](<img width="720" height="1612" alt="add_task" src="https://github.com/user-attachments/assets/8966918e-726b-4842-aa57-0e02ed6ce6a8" />)
+
+
